@@ -14,8 +14,6 @@ players = [
 # Then, print out a line such as "Jen won 1000.".
 # The winnings are calculated with the formula:
 # 100 ** len(numbers_matched)
-
-
 highest_match_player=players[0]
 highest_player_name = players[0]["name"]
 
